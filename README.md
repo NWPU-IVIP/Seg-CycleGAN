@@ -1,4 +1,5 @@
 # Seg-CycleGAN
+Paper link: [Seg-CycleGAN : SAR-to-optical image translation  guided by a downstream task](https://ieeexplore.ieee.org/abstract/document/10872937)
 
 This repository provides:
 
@@ -8,8 +9,6 @@ This repository provides:
 - Use `train.py` to start training. 
 
 - The Seg-CycleGAN model is located in the `model/cycle_gan_model.py`.
-
-Paper link: [Seg-CycleGAN : SAR-to-optical image translation  guided by a downstream task](https://ieeexplore.ieee.org/abstract/document/10872937)
 
 ## HRSID-DIOR Dataset
 
