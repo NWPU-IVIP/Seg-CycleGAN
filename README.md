@@ -1,10 +1,13 @@
 # Seg-CycleGAN
 
-This repository provides the official code implementation of Seg-CycleGAN. 
+This repository provides:
 
-Use `train.py` to start training. 
+1. the official code implementation of Seg-CycleGAN
+2. the HRSID-DIOR dataset used in our research. 
 
-The Seg-CycleGAN model is located in the `model/cycle_gan_model.py`.
+- Use `train.py` to start training. 
+
+- The Seg-CycleGAN model is located in the `model/cycle_gan_model.py`.
 
 Paper link: [Seg-CycleGAN : SAR-to-optical image translation  guided by a downstream task](https://ieeexplore.ieee.org/abstract/document/10872937)
 
