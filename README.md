@@ -3,7 +3,7 @@ Paper link: [Seg-CycleGAN : SAR-to-optical image translation  guided by a downst
 
 This repository provides:
 
-1. the official code implementation of Seg-CycleGAN
+1. the official code implementation of Seg-CycleGAN.
 2. the HRSID-DIOR dataset used in our research. 
 
 - Use `train.py` to start training. 
