@@ -8,7 +8,7 @@ This repository provides:
 
 - Use `train.py` to start training. 
 
-- The Seg-CycleGAN model is located in the `model/cycle_gan_model.py`.
+- The Seg-CycleGAN model is located in the `models/cycle_gan_model.py`.
 
 ## HRSID-DIOR Dataset
 
