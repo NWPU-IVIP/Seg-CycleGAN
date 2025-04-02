@@ -7,9 +7,16 @@ Optical remote sensing and synthetic aperture radar (SAR) remote sensing are cru
 
 ![image](https://github.com/NWPU-IVIP/Seg-CycleGAN-and-HRSID-DIOR/blob/main/figures/fig1.png)
 
-## Results
+## Results on HRSID-DIOR
 
 ![image](https://github.com/NWPU-IVIP/Seg-CycleGAN-and-HRSID-DIOR/blob/main/figures/fig2.png)
+
+## Qualitative results 
+
+ 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 
 This repository provides:
 
