@@ -28,6 +28,18 @@ Download the dataset through [GoogleDrive](https://drive.google.com/drive/folder
 ```
 pip install -r requirements.txt
 ```
+### Build Environment
+```
+conda env create -f environment.yml -n Seg-CycleGAN
+```
+### Evaluation
+```
+python sar2opt_eval.py
+```
+### Training
+```
+python train.py
+```
 
 ## Citation
 
