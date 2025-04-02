@@ -43,7 +43,7 @@ python train.py
 
 ## Citation
 
-If you use our dataset, please cite our paper below.
+If you find our work useful in your research, please consider citing our paper:
 
 ```BibTeX
 @ARTICLE{10872937,
@@ -57,3 +57,5 @@ If you use our dataset, please cite our paper below.
   keywords={Marine vehicles;Translation;Optical imaging;Optical sensors;Semantic segmentation;Training;Generators;Adaptive optics;Optical fiber networks;Radar polarimetry;Cycle-consistency;downstream-task-guided framework;semantic segmentation synthetic aperture radar (SAR)-to-optical image translation},
   doi={10.1109/LGRS.2025.3538868}}
 ```
+## Acknowledgements
+This project is based on [Cyclegan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master). We thank the original authors for their excellent works.
