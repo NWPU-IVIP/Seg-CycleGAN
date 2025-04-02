@@ -31,13 +31,14 @@ Download the dataset through [GoogleDrive](https://drive.google.com/drive/folder
 If you use our dataset, please cite our paper below.
 
 ```BibTeX
-@misc{zhang2024segcyclegansartoopticalimage,
-      title={Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task}, 
-      author={Hannuo Zhang and Huihui Li and Jiarui Lin and Yujie Zhang and Jianghua Fan and Hang Liu},
-      year={2024},
-      eprint={2408.05777},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2408.05777}, 
-}
+@ARTICLE{10872937,
+  author={Zhang, Hannuo and Li, Huihui and Lin, Jiarui and Zhang, Yujie and Fan, Jianghua and Liu, Hang and Liu, Kun},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Seg-CycleGAN: SAR-to-Optical Image Translation Guided by a Downstream Task}, 
+  year={2025},
+  volume={22},
+  number={},
+  pages={1-5},
+  keywords={Marine vehicles;Translation;Optical imaging;Optical sensors;Semantic segmentation;Training;Generators;Adaptive optics;Optical fiber networks;Radar polarimetry;Cycle-consistency;downstream-task-guided framework;semantic segmentation synthetic aperture radar (SAR)-to-optical image translation},
+  doi={10.1109/LGRS.2025.3538868}}
 ```
