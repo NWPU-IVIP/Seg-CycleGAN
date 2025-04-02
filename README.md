@@ -7,6 +7,10 @@ Optical remote sensing and synthetic aperture radar (SAR) remote sensing are cru
 
 ![image](https://github.com/NWPU-IVIP/Seg-CycleGAN-and-HRSID-DIOR/blob/main/figures/fig1.png)
 
+## Results
+
+![image](https://github.com/NWPU-IVIP/Seg-CycleGAN-and-HRSID-DIOR/blob/main/figures/fig2.png)
+
 This repository provides:
 
 1. the official code implementation of Seg-CycleGAN.
