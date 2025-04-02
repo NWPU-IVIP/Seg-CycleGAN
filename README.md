@@ -25,6 +25,9 @@ Download the dataset through [GoogleDrive](https://drive.google.com/drive/folder
 ## Usage
 
 ### Dependencies
+```
+pip install -r requirements.txt
+```
 
 ## Citation
 
