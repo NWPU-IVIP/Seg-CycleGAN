@@ -13,14 +13,14 @@ Optical remote sensing and synthetic aperture radar (SAR) remote sensing are cru
 
 ## Qualitative results 
 
- Method | 右对齐 | 居中对齐 |居中对齐 |
-| :-----| ----: | :----: | :----: |
-| Seg-CycleGAN | 单元格 | 单元格 |单元格 |
-| CycleGAN | 单元格 | 单元格 |单元格 |
-| NICE-GAN | 单元格 | 单元格 |单元格 |
-| SteroGAN | 单元格 | 单元格 |单元格 |
-| PatchGCL | 单元格 | 单元格 |单元格 |
-| Ground Truth SAR | 单元格 | 单元格 |单元格 |
+ Method | mPA | mIoU |FwIoU |FID |
+| :-----| ----: | :----: | :----: |:----: |
+| Seg-CycleGAN | 0.824 | 0.678 |0.933 |146.395 |
+| CycleGAN | 0.802 | 0.661 |0.924 |159.319 |
+| NICE-GAN | 0.681 | 0.573 |0.930 |153.703 |
+| SteroGAN | 0.495 | 0.489 |0.926 |47.991 |
+| PatchGCL | 0.500 | 0.479 |0.923 |135.757 |
+| Ground Truth SAR | 0.734 | 0.652 |0.898 |- |
 
 This repository provides:
 
