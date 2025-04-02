@@ -12,10 +12,6 @@ This repository provides:
 1. the official code implementation of Seg-CycleGAN.
 2. the HRSID-DIOR dataset used in our research. 
 
-- Use `train.py` to start training. 
-
-- The Seg-CycleGAN model is located in the `models/cycle_gan_model.py`.
-
 ## Dataset Download
 
 The HRSID-DIOR Dataset is used to support SAR-to-Optical image translation for ship targets.
@@ -25,6 +21,10 @@ This dataset is composed of 2 parts:
 2) HRSID subset: 1031 inshore images and corresponding ship segmentation labels are selected and cropped.
 
 Download the dataset through [GoogleDrive](https://drive.google.com/drive/folders/1_1F_A7iUUEgOSgQ7qLMPFT32z6_GCxO4?usp=drive_link).
+
+## Usage
+
+### Dependencies
 
 ## Citation
 
