@@ -27,6 +27,7 @@ This dataset is composed of 2 parts:
 Download the dataset through [GoogleDrive](https://drive.google.com/drive/folders/1_1F_A7iUUEgOSgQ7qLMPFT32z6_GCxO4?usp=drive_link).
 
 ## Usage
+See options/ for hyperparameter tuning, and see SegNet.py, cycle_gan_model.py in models/ for model structure.
 
 ### Dependencies
 ```
