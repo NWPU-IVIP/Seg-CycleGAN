@@ -13,10 +13,14 @@ Optical remote sensing and synthetic aperture radar (SAR) remote sensing are cru
 
 ## Qualitative results 
 
- 左对齐 | 右对齐 | 居中对齐 |
-| :-----| ----: | :----: |
-| 单元格 | 单元格 | 单元格 |
-| 单元格 | 单元格 | 单元格 |
+ Method | 右对齐 | 居中对齐 |居中对齐 |
+| :-----| ----: | :----: | :----: |
+| Seg-CycleGAN | 单元格 | 单元格 |单元格 |
+| CycleGAN | 单元格 | 单元格 |单元格 |
+| NICE-GAN | 单元格 | 单元格 |单元格 |
+| SteroGAN | 单元格 | 单元格 |单元格 |
+| PatchGCL | 单元格 | 单元格 |单元格 |
+| Ground Truth SAR | 单元格 | 单元格 |单元格 |
 
 This repository provides:
 
