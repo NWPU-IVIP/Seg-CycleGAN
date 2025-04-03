@@ -15,9 +15,9 @@ Optical remote sensing and synthetic aperture radar (SAR) remote sensing are cru
 
 ### Qualitative results on HRSID-DIOR Dataset
 
- Method | mPA | mIoU |FwIoU |FID |
+ Method | mPA⬆ | mIoU ⬆|FwIoU⬆ |FID⬇ |
 |:----:| :----: | :----: | :----: |:----: |
-| Seg-CycleGAN | 0.824 | 0.678 |0.933 |146.395 |
+| Seg-CycleGAN | **0.824** | **0.678** |**0.933** |**146.395** |
 | CycleGAN | 0.802 | 0.661 |0.924 |159.319 |
 | NICE-GAN | 0.681 | 0.573 |0.930 |153.703 |
 | SteroGAN | 0.495 | 0.489 |0.926 |47.991 |
