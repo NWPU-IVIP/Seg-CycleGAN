@@ -76,4 +76,4 @@ If you find our work useful in your research, please consider citing our paper:
   doi={10.1109/LGRS.2025.3538868}}
 ```
 ## Acknowledgements
-This project is based on [Cyclegan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master). We thank the original authors for their excellent works.
+This project is based on [Cyclegan/Pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/tree/master). We thank the original authors for their excellent works.
